@@ -1,0 +1,22 @@
+{
+  "Object": "ConsumptionRate",
+  "Fields": {
+    "Description": "",
+    "GearsetDisplayName": "Usage - 0 - 1001 - 10.0",
+    "GearsetExternalId__c": "GAKjdED000000sHoM0",
+    "LowerBound": "0",
+    "Price": "10.0",
+    "PricingMethod": "PerUnit",
+    "ProcessingOrder": "1",
+    "UpperBound": "1001"
+  },
+  "References": [
+    {
+      "Name": "ConsumptionSchedule",
+      "ReferencedObject": "ConsumptionSchedule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "GAKbgED000000sHhM0"
+      }
+    }
+  ]
+}

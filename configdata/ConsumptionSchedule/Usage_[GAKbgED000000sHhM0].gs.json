@@ -1,0 +1,18 @@
+{
+  "Object": "ConsumptionSchedule",
+  "Fields": {
+    "BillingTerm": "1",
+    "BillingTermUnit": "Month",
+    "Description": "",
+    "GearsetDisplayName": "Usage",
+    "GearsetExternalId__c": "GAKbgED000000sHhM0",
+    "IsActive": "true",
+    "MatchingAttribute": "",
+    "Name": "Usage",
+    "RatingMethod": "Tier",
+    "SBQQ__Category__c": "Rates",
+    "Type": "Range",
+    "UnitOfMeasure": "Per Unit"
+  },
+  "References": []
+}
